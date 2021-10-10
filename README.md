@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/136712002-a9bf08f1-8660-4aa6-a8b7-2be3866304e2.png">
   <br />
   Apache Hadoop Guide
 </h1>
@@ -8,13 +8,13 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/136712004-7f5f74c3-87e2-488c-a808-4ae76e185a99.png">
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/136712015-e9ace18d-d996-425f-82be-abed63275062.png">
 
 Apache Hadoop Ecosystem. Source: [Apache Hadoop](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/136712018-413849f4-83bd-40f0-a985-11bdd254facd.png">
 
 Hadoop MapReduce Architecture. Source: [Apache Hadoop](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
 
